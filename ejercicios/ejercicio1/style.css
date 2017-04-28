@@ -1,0 +1,37 @@
+body{
+    background-color: white;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-family:Verdana, Arial, sans-serif;
+    font-size: 15px;
+    
+}
+
+.title{
+    background-color: #33BEBE;
+    padding: 20px; 
+    color: white;
+    margin-bottom: 50px;
+}
+
+.contenido{
+    display: flex;
+    
+}
+
+.contenido img{
+    width: 250px;
+    height: 250px;
+}
+
+.texto{
+    margin-left: 20px;
+    font-size: 30px;
+    color: #7C8B88;
+    margin-top: 0px;
+}
+
+
+
