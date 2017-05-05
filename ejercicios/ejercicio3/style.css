@@ -1,0 +1,77 @@
+body{
+    margin-left: 180px;
+    margin-right: 180px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.encabezado{
+    height: 70px;
+}
+
+.logo{
+    height: 90px;
+    float: left;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 7px solid #F8981C;
+    width: 90px;
+}
+
+.logo img {
+    width: 60px;
+    margin: 12px;
+}
+
+.empresa{
+    float: right;
+    
+}
+
+.empresa h1{
+    margin-bottom: 0px;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.empresa h2{
+    margin-top: 0px;
+    text-align: right;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+
+.imagen{
+    margin-top: 50px;
+    padding-top: 10px;
+    border-top-style: groove;
+
+}
+.images ul li{
+    margin-right: 25px;
+    margin-left: 1px;
+    margin-top: 1px;
+}
+
+.images ul{
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+    padding: 0px;
+}
+
+.images h1{
+    color: #747704;
+}
+.images h3{
+    color: #747704;
+    font-weight: 100;
+}
+
+.cuerpo h2{
+    color: #BCBBBB;
+    font-weight: 100;
+    font-size: 40px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}

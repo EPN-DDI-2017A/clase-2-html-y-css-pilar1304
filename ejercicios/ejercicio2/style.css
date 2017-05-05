@@ -1,0 +1,50 @@
+body{
+    margin-top: 90px;
+    margin-left: 300px;
+    margin-right: 103px;
+    margin-bottom: 90px;
+}
+
+.cuerpo{
+    background-color: #E8E8E7;
+    
+}
+
+.title img {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.linea{
+   background-color: #8BCC98;
+    padding: 0.7%;
+}
+
+.contenido{
+    
+}
+
+.texto{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 15px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    background-color: white;
+    color: #5D5837;
+    
+}
+
+.texto h2{
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.texto p{
+    text-indent: 1.8cm;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 18px;
+    margin: auto;
+}
+

@@ -1,9 +1,9 @@
 body{
     background-color: white;
-    margin-left: 180px;
-    margin-right: 180px;
+    margin-left: 210px;
+    margin-right: 250px;
     margin-top: 150px;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
     font-family:Verdana, Arial, sans-serif;
     font-size: 15px;
     
@@ -11,9 +11,19 @@ body{
 
 .title{
     background-color: #33BEBE;
-    padding: 20px; 
+    padding-bottom: 5px;
+    padding-top: 20px;
+    padding-left: 20px;
     color: white;
     margin-bottom: 50px;
+    font-size: 28px;
+}
+
+.title h1{
+    margin-bottom: 0px;
+    margin-top: 10px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: normal;
 }
 
 .contenido{
@@ -22,16 +32,18 @@ body{
 }
 
 .contenido img{
-    width: 250px;
-    height: 250px;
+
 }
 
-.texto{
-    margin-left: 20px;
-    font-size: 30px;
-    color: #7C8B88;
-    margin-top: 0px;
+.texto p{
+    margin-left: 30px;
+    font-size: 27px;
+    color: #7C8B88; 
+    margin-top: auto;
+    font-weight: 100px;;
+    font-family: 'Exo 2', sans-serif;
 }
+
 
 
 

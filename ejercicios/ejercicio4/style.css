@@ -1,0 +1,93 @@
+body{
+    margin-left: 280px;
+    margin-right: 125px;
+    margin-top: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.encabezado{
+    height: 145px;
+    margin-bottom: 15px;
+    border-bottom: 5px solid #D0C4AB; 
+}
+
+.logo{
+    height: 90px;
+    float: left;
+    margin-top: 35px;
+    border-radius: 50%;
+    background-color: #D5245B;
+    width: 90px;
+}
+
+.logo img {
+    width: 60px;
+    margin: 12px;
+}
+
+.empresa{
+    float: right;
+    
+}
+
+.empresa h1{
+    margin-bottom: 0px;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 50px;
+}
+
+.empresa h2{
+    margin-top: 0px;
+    text-align: right;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.cuerpo{
+    background-color: #131A2D;
+    padding-top: 20px;
+    color: #D0C4AB;
+    padding-bottom: 15px;
+}
+
+
+.cuerpo img{
+    width: 100%;
+}
+
+.cuerpo h2{
+    margin-left: 35px;
+    font-size: 25px;
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+
+.cuerpo li{
+    list-style: none;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.cuerpo ul{
+    display: flex;
+    padding-left: 0px;
+}
+
+.cuerpo div{
+    background-color: #D0C4AB;
+    width: 370px;
+    height: 170px;
+}
+
+.cuerpo h5{
+    margin: 4px;
+    letter-spacing: 1px;
+}
+
+.cuerpo h1{
+    margin-bottom: 12px;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
